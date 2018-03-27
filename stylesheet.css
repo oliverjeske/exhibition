@@ -1,0 +1,67 @@
+h1 {
+	color:white;
+	text-align:center;	
+	font-family:impact;
+	outline-style:white;
+	outline-color:white;	
+	font-size: 50px
+}
+h2{
+	color:white;
+	text-align:center;	
+	font-family:impact;
+	outline-style:white;
+	outline-color:white;	
+	font-size: 50px;
+}
+h5 {
+	color:white;
+	text-align:center;	
+	font-family:georgian;
+	outline-style:light gray;
+	outline-color:white;	
+	font-size: 30px
+	}
+p {
+	color:white;	
+	text-align:left
+	outline-style:white;
+	font-family:georgian;
+}
+
+body {
+   background-color: #cccccc;
+	cursor: url('oliver/potato.png'), default;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;    
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    font-size:30px;
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 28px;
+    text-decoration: none;
+}
+
+
+
+.transcript {
+	height:320px;
+	width:800px;
+	border:1px solid;
+	overflow:auto;
+	margin:balance;
+}
+
