@@ -22,11 +22,19 @@ h5 {
 	outline-color:white;	
 	font-size: 30px
 	}
+	h6 {
+		 margin: 780px;
+	 margin-top: 15px;
+	  margin-bottom: 15px;
+	  color:white;
+	  font-size: 18px
+	}
 p {
 	color:white;	
 	text-align:left
 	outline-style:white;
 	font-family:georgian;
+}
 }
 
 body {
